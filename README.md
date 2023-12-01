@@ -1,4 +1,5 @@
 # Laravel CRUD with MDB CSS
+![Screenshot 2023-12-01 163710](https://github.com/Jhaveri-Jeet/Laravel-CRUD/assets/114752089/37ae22d3-373b-44ba-bec2-e23108f1ae61)
 
 A simple Laravel CRUD (Create, Read, Update, Delete) application with MDB CSS integration for a modern and responsive user interface.
 
